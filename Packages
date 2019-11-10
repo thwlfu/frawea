@@ -1,0 +1,28 @@
+Package: com.thwlfu.supergradebeta
+Version: 1.0
+Section: Themes
+Maintainer: thwlfu <thwlfou@gmail.com>
+Depends: firmware (>6.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.thwlfu.supergrade.deb
+Size: 
+MD5sum: 
+Description: SuperGrade beta testing
+Name: SuperGrade
+Author: thwlfou <thwlfou@gmail.com>
+Depiction: https://thwlfu.github.io/frawea/depictions/?p=com.thwlfu.supergradebeta
+
+Package: com.thwlfu.oldpackage
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: thwlfu <thwlfou@gmail.com>
+Depends: firmware (<9.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.thwlfu.oldpackage.deb
+Size: 
+MD5sum: 
+Description: 
+Name: 
+Author: thwlfu <thwlfou@gmail.com>
+Depiction: https://thwlfu.github.io/frawea/depictions/?p=com.thwlfu.oldpackage
+
